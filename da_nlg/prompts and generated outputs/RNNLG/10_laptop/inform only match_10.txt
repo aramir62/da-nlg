@@ -1,0 +1,19 @@
+Here is a text: "uranus 29 type television has usb port false price range cheap family d1". Here is a rewrite of the text, which is a inform only match dialogue act: "only the d1 family uranus 29 television has no usb ports and is cheaply priced ."
+
+Here is a text: "heracles 18 type television hdmi port 2 ecorating a+ has usb port true". Here is a rewrite of the text, which is a inform only match dialogue act: "I'm sorry but there are no other televisions except for heracles 18 with 2 hdmi ports, in the A+ eco rating and which has usb ports"
+
+Here is a text: "aeolus 98 type television screen size range medium family l2 has usb port true". Here is a rewrite of the text, which is a inform only match dialogue act: "I'm sorry but there are no other televisions except for aeolus 98 in the medium screen size range, in the L2 family and which has usb ports"
+
+Here is a text: "pontus 66 type television hdmi port 2 family w1 screen size range medium". Here is a rewrite of the text, which is a inform only match dialogue act: "I'm sorry but there are no other televisions except for pontus 66 with 2 hdmi ports, in the W1 family and in the medium screen size range"
+
+Here is a text: "caerus 63 type television screen size range medium price range cheap has usb port true". Here is a rewrite of the text, which is a inform only match dialogue act: "the caerus 63 television matches your values as it is in the cheap price range , has a medium size screen , and also comes with a usb port ."
+
+Here is a text: "ares 11 type television price range cheap has usb port false ecorating a". Here is a rewrite of the text, which is a inform only match dialogue act: "I'm sorry but there are no other televisions except for ares 11 in the cheap price range, which does not have any usb ports and in the A eco rating"
+
+Here is a text: "proteus 73 type television has usb port true hdmi port 2 screen size range medium". Here is a rewrite of the text, which is a inform only match dialogue act: "i wanted to inform you that the proteus 73 is the only television that has usb ports and it comes with 2 hdmi ports and in the medium screen size range ."
+
+Here is a text: "hades 48 type television screen size range large family l7 price range cheap". Here is a rewrite of the text, which is a inform only match dialogue act: "I'm sorry but there are no other televisions except for hades 48 in the large screen size range, in the L7 family and in the cheap price range"
+
+Here is a text: "heracles 45 type television price range cheap family l1 has usb port true". Here is a rewrite of the text, which is a inform only match dialogue act: "the only match here is a cheap l1 heracles 45 television , and has a has_usb_port ."
+
+Here is a text: "pontus 18 type television has usb port false family l7". Here is a rewrite of the text, which is a inform only match dialogue act: "I'm sorry but there are no other televisions except for pontus 18 which does not have any usb ports and in the L7 family"

@@ -1,0 +1,19 @@
+Here is a text: "screen size range small screen size range don't care". Here is a rewrite of the text, which is a select dialogue act: "Sorry would you like something in the small screen size range or you don't care"
+
+Here is a text: "screen size range small screen size range don't care". Here is a rewrite of the text, which is a select dialogue act: "Sorry would you like something in the small screen size range or you don't care"
+
+Here is a text: "family l1 family l6". Here is a rewrite of the text, which is a select dialogue act: "are you interested in the l1 family or the l6 family ?"
+
+Here is a text: "eco rating a++ eco rating a+". Here is a rewrite of the text, which is a select dialogue act: "would you prefer an ecorating of a++ or a+ ?"
+
+Here is a text: "screen size range small screen size range don't care". Here is a rewrite of the text, which is a select dialogue act: "would you like a small screen size range and if you don't care about the screen size range ."
+
+Here is a text: "family l1 family l6". Here is a rewrite of the text, which is a select dialogue act: "are you interested in the l1 family or the l6 family ?"
+
+Here is a text: "hdmi port 4 hdmi port don't care". Here is a rewrite of the text, which is a select dialogue act: "do you not care about the number of hdmi ports , or do you want 4"
+
+Here is a text: "family l1 family l6". Here is a rewrite of the text, which is a select dialogue act: "Sorry would you like L1 or L6 for family"
+
+Here is a text: "hdmi port 4 hdmi port 3". Here is a rewrite of the text, which is a select dialogue act: "please select between 3 or 4 hdmi ports ."
+
+Here is a text: "eco rating a++ eco rating a+". Here is a rewrite of the text, which is a select dialogue act: "Sorry would you like A++ or A+ for ecorating"

@@ -1,0 +1,19 @@
+Here is a text: "eurus 24 type television screensize 42 inch ecorating a+ color gloss black bezel , matt black bottom deco , silver frame stand". Here is a rewrite of the text, which is a recommend dialogue act: "the eurus 24 television is gloss black bezel , matt black bottom deco , silver frame stand , has a 42 inch screen and an a+ eco rating ."
+
+Here is a text: "hades 48 type television ecorating a+ family l7 has usb port false". Here is a rewrite of the text, which is a recommend dialogue act: "hades 48 is a nice television. it has a A+ eco rating, it is in the L7 product family, and which does not have any usb ports."
+
+Here is a text: "heracles 65 type television has usb port false color gloss black bezel with gloss black frame stand family e2". Here is a rewrite of the text, which is a recommend dialogue act: "the sleek heracles 65 television from the e2 product family has gloss black bezel with gloss black frame stand and has no usb ports ."
+
+Here is a text: "eurus 32 type television resolution 1080p price 1200 dollars family l5". Here is a rewrite of the text, which is a recommend dialogue act: "eurus 32 is a nice television. its resolution is 1080p, its price is 1200 dollars, and it is in the L5 product family."
+
+Here is a text: "tartarus 39 type television ecorating a+ audio nicam stereo has usb port true". Here is a rewrite of the text, which is a recommend dialogue act: "tartarus 39 is a nice television. it has a A+ eco rating, its audio is NICAM stereo, and which has usb ports."
+
+Here is a text: "hesperus 33 type television screensize 32 inch audio nicam stereo resolution 720p". Here is a rewrite of the text, which is a recommend dialogue act: "hesperus 33 is a nice television. its screen size is 32 inch, its audio is NICAM stereo, and its resolution is 720p."
+
+Here is a text: "nereus 69 type television has usb port true price range cheap price 1700 dollars". Here is a rewrite of the text, which is a recommend dialogue act: "i highly recommend the nereus 69 television . it is cheap , at a price of 1700 dollars , and has a usb port ."
+
+Here is a text: "chronos 62 type television price 1600 dollars". Here is a rewrite of the text, which is a recommend dialogue act: "i recommend the chronos 62. it is a television that costs only 1600 dollars ."
+
+Here is a text: "charon 69 type television resolution 1080p accessories remote control has usb port false". Here is a rewrite of the text, which is a recommend dialogue act: "i would like to recommend the charon 69 television to you . it has a resolution of 1080p , and comes with a remote control . it doesn't have a usb port if that is important to you ."
+
+Here is a text: "chronos 62 type television has usb port false audio nicam stereo screen size range small". Here is a rewrite of the text, which is a recommend dialogue act: "chronos 62 is a nice television. which does not have any usb ports, its audio is NICAM stereo, and it is in the small screen size range."

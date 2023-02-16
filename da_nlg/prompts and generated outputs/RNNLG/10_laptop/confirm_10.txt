@@ -1,0 +1,19 @@
+Here is a text: "type television price range don't care". Here is a rewrite of the text, which is a confirm dialogue act: "let me confirm , you are loking for a television in any price range , correct ?"
+
+Here is a text: "type television has usb port true screen size range medium". Here is a rewrite of the text, which is a confirm dialogue act: "Let me confirm, a television which has usb ports and in the medium screen size range right"
+
+Here is a text: "type television ecorating don't care has usb port false". Here is a rewrite of the text, which is a confirm dialogue act: "this is a television with an unknown eco rating and no usb ports ."
+
+Here is a text: "type television price range cheap has usb port false". Here is a rewrite of the text, which is a confirm dialogue act: "just to confirm , you are looking for a cheap television with no usb port ?"
+
+Here is a text: "type television hdmi port don't care price range don't care". Here is a rewrite of the text, which is a confirm dialogue act: "just to confirm , you're looking for a television of any price , with any number of hdmi ports , right ?"
+
+Here is a text: "type television ecorating a+". Here is a rewrite of the text, which is a confirm dialogue act: "so you are looking for a television with an a+ ecorating right"
+
+Here is a text: "type television price range don't care screen size range medium". Here is a rewrite of the text, which is a confirm dialogue act: "just to confirm , you are looking for a medium screen size television and don't care about the price range ?"
+
+Here is a text: "type television hdmi port don't care ecorating don't care". Here is a rewrite of the text, which is a confirm dialogue act: "you are looking for a television and don't care about eco rating or number of hdmi ports ."
+
+Here is a text: "type television ecorating don't care price range cheap". Here is a rewrite of the text, which is a confirm dialogue act: "Let me confirm, a television in any eco rating and in the cheap price range right"
+
+Here is a text: "type television family don't care has usb port false". Here is a rewrite of the text, which is a confirm dialogue act: "just to confirm , you want a television in any product family without usb ports . is that correct ?"

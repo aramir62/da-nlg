@@ -1,0 +1,19 @@
+Here is a text: "type television family w2 screen size range medium". Here is a rewrite of the text, which is an inform all dialogue act: "All televisions in the W2 family are in the medium screen size range"
+
+Here is a text: "type television price range cheap screen size range small". Here is a rewrite of the text, which is an inform all dialogue act: "all cheap televisions are small ."
+
+Here is a text: "type television eco rating a family l1". Here is a rewrite of the text, which is an inform all dialogue act: "all televisions within the l1 family has an a eco rating ."
+
+Here is a text: "type television family l2 hdmi port 2". Here is a rewrite of the text, which is an inform all dialogue act: "all of the televisions that are in the l2 family have 2 hdmi ports ."
+
+Here is a text: "type television hdmi port 1 has usb port true". Here is a rewrite of the text, which is an inform all dialogue act: "every television has a usb port and 1 hdmi port ."
+
+Here is a text: "type television eco rating c price range cheap". Here is a rewrite of the text, which is an inform all dialogue act: "our cheap television sets have an eco rating of c ."
+
+Here is a text: "type television has usb port false screen size range large". Here is a rewrite of the text, which is an inform all dialogue act: "All televisions which does not have any usb ports are in the large screen size range"
+
+Here is a text: "type television family w2 screen size range medium". Here is a rewrite of the text, which is an inform all dialogue act: "all of the televisions meeting the criteria of being in the w2 family have a medium size screen ."
+
+Here is a text: "type television has usb port true eco rating a+". Here is a rewrite of the text, which is an inform all dialogue act: "All televisions which has usb ports are in the A+ eco rating"
+
+Here is a text: "type television has usb port false price range cheap". Here is a rewrite of the text, which is an inform all dialogue act: "All televisions which does not have any usb ports are in the cheap price range"

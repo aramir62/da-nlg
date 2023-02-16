@@ -1,0 +1,19 @@
+Here is a text: "eros 20 accessories remote control family w1  kratos 31 accessories remote control and european warranty family w2". Here is a rewrite of the text, which is a compare dialogue act: "Compared to eros 20 which comes with remote control and is in the W1 product family, kratos 31 comes with remote control and european warranty and is in the W2 product family. Which one do you prefer?"
+
+Here is a text: "pallas 86 accessories remote control and passive 3d glasses and european warranty resolution 1080p  typhon 49 accessories remote control and european warranty resolution 720p". Here is a rewrite of the text, which is a compare dialogue act: "Compared to pallas 86 which comes with remote control and passive 3d glasses and european warranty and has 1080p resolution, typhon 49 comes with remote control and european warranty and has 720p resolution. Which one do you prefer?"
+
+Here is a text: "pallas 86 screen size range large hdmi port 4  apollo 33 screen size range medium hdmi port 2". Here is a rewrite of the text, which is a compare dialogue act: "Compared to pallas 86 which is in the large screen size range and has 4 hdmi ports, apollo 33 is in the medium screen size range and has 2 hdmi ports. Which one do you prefer?"
+
+Here is a text: "cerus 13 family l6 color gloss black bezel , matt black bottom deco , silver frame stand  hades 48 family l7 color gloss black bezel , matt black bottom deco , silver frame metal stand". Here is a rewrite of the text, which is a compare dialogue act: "Compared to cerus 13 which is in the L6 product family and has a color of gloss black bezel, matt black bottom deco, silver frame stand, hades 48 is in the L7 product family and has a color of gloss black bezel, matt black bottom deco, silver frame metal stand. Which one do you prefer?"
+
+Here is a text: "dinlas 26 family e2  hades 48 family l7". Here is a rewrite of the text, which is a compare dialogue act: "Compared to dinlas 26 which is in the E2 product family, hades 48 is in the L7 product family. Which one do you prefer?"
+
+Here is a text: "typhon 45 family l2 power consumption 47.8 watt  hymenaios 17 family l5 power consumption 44 watt". Here is a rewrite of the text, which is a compare dialogue act: "Compared to typhon 45 which is in the L2 product family and has 47.8 watt power consumption, hymenaios 17 is in the L5 product family and has 44 watt power consumption. Which one do you prefer?"
+
+Here is a text: "attis 75 price 1600 dollars ecorating a++  oceanus 51 price 1800 dollars ecorating a+". Here is a rewrite of the text, which is a compare dialogue act: "Compared to attis 75 which costs 1600 dollars and is in the A++ eco rating, oceanus 51 costs 1800 dollars and is in the A+ eco rating. Which one do you prefer?"
+
+Here is a text: "poseidon 88 hdmi port 4 screensize 40 inch  charon 69 hdmi port 2 screensize 48.0 inch". Here is a rewrite of the text, which is a compare dialogue act: "poseidon 88 has 4 hdmi ports and a 40 inch screen size; however the charon 69 has 2 hdmi ports , and has a 48.0 inch screen size"
+
+Here is a text: "caerus 63 power consumption 38 watt ecorating a+  achelous 71 power consumption 40 watt ecorating b". Here is a rewrite of the text, which is a compare dialogue act: "the caerus 63 consumes 38 watt power and has an eco rating of a+ , while achelous 71 consumes 40 watt power and has an eco rating of b ."
+
+Here is a text: "aeolus 98 family l2 ecorating a+  attis 65 family l1 ecorating a++". Here is a rewrite of the text, which is a compare dialogue act: "Compared to aeolus 98 which is in the L2 product family and is in the A+ eco rating, attis 65 is in the L1 product family and is in the A++ eco rating. Which one do you prefer?"

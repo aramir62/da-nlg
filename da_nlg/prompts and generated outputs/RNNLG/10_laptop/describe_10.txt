@@ -1,0 +1,19 @@
+Here is a text: "crios 89 type television power consumption 30 watt family l1 ecorating a+". Here is a rewrite of the text, which is a describe dialogue act: "crios 89 is a television which has 30 watt power consumption, is in the L1 product family, and is in the A+ eco rating."
+
+Here is a text: "chronos 62 type television has usb port false audio nicam stereo screen size range small". Here is a rewrite of the text, which is a describe dialogue act: "chronos 62 is a nice television. which does not have any usb ports, its audio is NICAM stereo, and it is in the small screen size range."
+
+Here is a text: "hades 48 type television ecorating a+ family l7 has usb port false". Here is a rewrite of the text, which is a describe dialogue act: "hades 48 is a nice television. it has a A+ eco rating, it is in the L7 product family, and which does not have any usb ports."
+
+Here is a text: "eurus 24 type television accessories remote control and passive 3d glasses and european warranty has usb port true". Here is a rewrite of the text, which is a describe dialogue act: "the eurus 24 television includes remote control and passive 3d glasses and european warranty . it also has a usb port ."
+
+Here is a text: "hesperus 33 type television screensize 32 inch audio nicam stereo resolution 720p". Here is a rewrite of the text, which is a describe dialogue act: "hesperus 33 is a nice television. its screen size is 32 inch, its audio is NICAM stereo, and its resolution is 720p."
+
+Here is a text: "ares 11 type television has usb port true audio nicam stereo price range cheap". Here is a rewrite of the text, which is a describe dialogue act: "the ares 11 television has a usb port , a nicam stereo and is in the cheap price range ."
+
+Here is a text: "typhon 48 type television power consumption 55 watt price 1100 dollars screensize 42 inch". Here is a rewrite of the text, which is a describe dialogue act: "typhon 48 is a television which has 55 watt power consumption, costs 1100 dollars, and has a 42 inch screen size."
+
+Here is a text: "momus 29 type television audio nicam stereo resolution 720p has usb port true". Here is a rewrite of the text, which is a describe dialogue act: "momus 29 is a television which has a NICAM stereo audio equipment, has 720p resolution, and has usb ports."
+
+Here is a text: "nereus 69 type television has usb port true price range cheap price 1700 dollars". Here is a rewrite of the text, which is a describe dialogue act: "i highly recommend the nereus 69 television . it is cheap , at a price of 1700 dollars , and has a usb port ."
+
+Here is a text: "tartarus 39 type television ecorating a+ audio nicam stereo has usb port true". Here is a rewrite of the text, which is a describe dialogue act: "tartarus 39 is a nice television. it has a A+ eco rating, its audio is NICAM stereo, and which has usb ports."

@@ -1,0 +1,19 @@
+Here is a text: "ecorating b ecorating c ecorating a++". Here is a rewrite of the text, which is a suggest dialogue act: "we have several with an a++ eco rating , a c eco rating and b eco rating ."
+
+Here is a text: "ecorating b ecorating c ecorating a++". Here is a rewrite of the text, which is a suggest dialogue act: "we have several with an a++ eco rating , a c eco rating and b eco rating ."
+
+Here is a text: "hdmi port 3 hdmi port 2 hdmi port 4". Here is a rewrite of the text, which is a suggest dialogue act: "For example, something with 3 hdmi ports, with 2 hdmi ports, or with 4 hdmi ports"
+
+Here is a text: "screen size range large screen size range small screen size range medium". Here is a rewrite of the text, which is a suggest dialogue act: "For example, something in the large screen size range, in the small screen size range, or in the medium screen size range"
+
+Here is a text: "ecorating b ecorating c ecorating a++". Here is a rewrite of the text, which is a suggest dialogue act: "we have several with an a++ eco rating , a c eco rating and b eco rating ."
+
+Here is a text: "screen size range large screen size range small screen size range medium". Here is a rewrite of the text, which is a suggest dialogue act: "we have televisions in the small , medium , and large screen size range ."
+
+Here is a text: "hdmi port 3 hdmi port 2 hdmi port 4". Here is a rewrite of the text, which is a suggest dialogue act: "For example, something with 3 hdmi ports, with 2 hdmi ports, or with 4 hdmi ports"
+
+Here is a text: "screen size range large screen size range small screen size range medium". Here is a rewrite of the text, which is a suggest dialogue act: "we have televisions in the small , medium , and large screen size range ."
+
+Here is a text: "hdmi port 3 hdmi port 2 hdmi port don't care". Here is a rewrite of the text, which is a suggest dialogue act: "For example, something with 3 hdmi ports, with 2 hdmi ports, or you don't care"
+
+Here is a text: "hdmi port 3 hdmi port 2 hdmi port don't care". Here is a rewrite of the text, which is a suggest dialogue act: "For example, something with 3 hdmi ports, with 2 hdmi ports, or you don't care"

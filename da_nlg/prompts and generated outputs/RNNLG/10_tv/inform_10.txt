@@ -1,0 +1,19 @@
+Here is a text: "charon 41 type television color matt black bezel with silver trim and silver flat stand eco rating a++ has usb port false". Here is a rewrite of the text, which is an inform dialogue act: "charon 41 is a television which has a color of matt black bezel with silver trim and silver flat stand, is in the A++ eco rating, and does not have any usb ports."
+
+Here is a text: "aeolus 98 type television color mat white bezel with mat white frame stand has usb port false hdmi port 2". Here is a rewrite of the text, which is an inform dialogue act: "aeolus 98 is a television which has a color of mat white bezel with mat white frame stand, does not have any usb ports, and has 2 hdmi ports."
+
+Here is a text: "pontus 32 type television price range cheap price 1700 dollars power consumption 18 watt". Here is a rewrite of the text, which is an inform dialogue act: "pontus 32 is a television which is in the cheap price range, costs 1700 dollars, and has 18 watt power consumption."
+
+Here is a text: "aristaeus 59 type television power consumption 46 watt has usb port true eco rating a++". Here is a rewrite of the text, which is an inform dialogue act: "the aristaeus 59 television consumes 46 watts of power and comes equipped with usb ports and an a++ eco rating ."
+
+Here is a text: "thanatos 85 type television has usb port true hdmi port 2 eco rating a+". Here is a rewrite of the text, which is an inform dialogue act: "thanatos 85 is a television which has usb ports, has 2 hdmi ports, and is in the A+ eco rating."
+
+Here is a text: "plutus 32 type television screen size range small accessories remote control price range cheap". Here is a rewrite of the text, which is an inform dialogue act: "the plutus 32 is a small screen television , which includes a remote control , and is available in for a cheap price ."
+
+Here is a text: "typhon 71 type television family w1 price 1000 dollars screen size range small". Here is a rewrite of the text, which is an inform dialogue act: "the typhon 71 is a small television in the w1 family that costs 1000 dollars"
+
+Here is a text: "charon 41 type television accessories remote control and european warranty screen size 48 inch eco rating a++". Here is a rewrite of the text, which is an inform dialogue act: "charon 41 is a television which comes with remote control and european warranty, has a 48 inch screen size, and is in the A++ eco rating."
+
+Here is a text: "glaucus 77 type television color gloss black bezel and bottom deco with silver flat stand aluminium neck screen size 32 inch". Here is a rewrite of the text, which is an inform dialogue act: "glaucus 77 is a television which has a color of gloss black bezel and bottom deco with silver flat stand aluminium neck and has a 32 inch screen size"
+
+Here is a text: "aristaeus 59 type television audio nicam stereo has usb port false price range cheap". Here is a rewrite of the text, which is an inform dialogue act: "aristaeus 59 is a television which has a NICAM stereo audio equipment, does not have any usb ports, and is in the cheap price range."

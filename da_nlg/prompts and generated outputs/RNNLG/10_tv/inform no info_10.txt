@@ -1,0 +1,19 @@
+Here is a text: "audio none accessories none". Here is a rewrite of the text, which is an inform no info dialogue act: "I have no information about its audio and accessories"
+
+Here is a text: "accessories none price none". Here is a rewrite of the text, which is an inform no info dialogue act: "there isn't any accessory or price information ."
+
+Here is a text: "audio none screen size none". Here is a rewrite of the text, which is an inform no info dialogue act: "I have no information about its audio and screen size"
+
+Here is a text: "audio none accessories none". Here is a rewrite of the text, which is an inform no info dialogue act: "I have no information about its audio and accessories"
+
+Here is a text: "accessories none power consumption none". Here is a rewrite of the text, which is an inform no info dialogue act: "i have no information about power consumption and accessories ."
+
+Here is a text: "accessories none". Here is a rewrite of the text, which is an inform no info dialogue act: "I have no information about its accessories"
+
+Here is a text: "audio none". Here is a rewrite of the text, which is an inform no info dialogue act: "I have no information about its audio"
+
+Here is a text: "color none power consumption none". Here is a rewrite of the text, which is an inform no info dialogue act: "I have no information about its color and power consumption"
+
+Here is a text: "audio none screen size none". Here is a rewrite of the text, which is an inform no info dialogue act: "I have no information about its audio and screen size"
+
+Here is a text: "screen size none". Here is a rewrite of the text, which is an inform no info dialogue act: "I have no information about its screen size"

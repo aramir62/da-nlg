@@ -1,0 +1,19 @@
+Here is a text: "hades 48 type television screen size range large family l7 price range cheap". Here is a rewrite of the text, which is an inform only match dialogue act: "the only television that meets your criteria of cheap , large screen in the l7 family is the hades 48."
+
+Here is a text: "dinlas 26 type television price range cheap hdmi port 2 eco rating a+". Here is a rewrite of the text, which is an inform only match dialogue act: "I'm sorry but there are no other televisions except for dinlas 26 in the cheap price range, with 2 hdmi ports and in the A+ eco rating"
+
+Here is a text: "pallas 86 type television eco rating a+ has usb port true family l7". Here is a rewrite of the text, which is an inform only match dialogue act: "I'm sorry but there are no other televisions except for pallas 86 in the A+ eco rating, which has usb ports and in the L7 family"
+
+Here is a text: "zephyrus 94 type television eco rating a+ has usb port false screen size range medium". Here is a rewrite of the text, which is an inform only match dialogue act: "the zephyrus 94 is a television with a medium screen size , no usb ports , and a+ eco rating ."
+
+Here is a text: "pontus 66 type television price range cheap eco rating a has usb port false". Here is a rewrite of the text, which is an inform only match dialogue act: "I'm sorry but there are no other televisions except for pontus 66 in the cheap price range, in the A eco rating and which does not have any usb ports"
+
+Here is a text: "zephyrus 94 type television eco rating a+ has usb port true screen size range medium". Here is a rewrite of the text, which is an inform only match dialogue act: "the zephyrus 94 television is the only match that has a a+ eco rating , and a medium size . it does have a usb port ."
+
+Here is a text: "pallas 86 type television eco rating a+ has usb port false family l7". Here is a rewrite of the text, which is an inform only match dialogue act: "I'm sorry but there are no other televisions except for pallas 86 in the A+ eco rating, which does not have any usb ports and in the L7 family"
+
+Here is a text: "nereus 69 type television family l1 hdmi port 2". Here is a rewrite of the text, which is an inform only match dialogue act: "we only have one television in the l1 family that has 2 hdmi ports . it is called the nereus 69."
+
+Here is a text: "crios 69 type television hdmi port 4 has usb port true screen size range large". Here is a rewrite of the text, which is an inform only match dialogue act: "I'm sorry but there are no other televisions except for crios 69 with 4 hdmi ports, which has usb ports and in the large screen size range"
+
+Here is a text: "notus 31 type television eco rating a price range cheap". Here is a rewrite of the text, which is an inform only match dialogue act: "I'm sorry but there are no other televisions except for notus 31 in the A eco rating and in the cheap price range"

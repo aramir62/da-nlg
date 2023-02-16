@@ -1,0 +1,19 @@
+Here is a text: "pontus 32 type television price range cheap price 1700 dollars power consumption 18 watt". Here is a rewrite of the text, which is a describe dialogue act: "pontus 32 is a television which is in the cheap price range, costs 1700 dollars, and has 18 watt power consumption."
+
+Here is a text: "aristaeus 59 type television power consumption 46 watt has usb port true eco rating a++". Here is a rewrite of the text, which is a describe dialogue act: "the aristaeus 59 television consumes 46 watts of power and comes equipped with usb ports and an a++ eco rating ."
+
+Here is a text: "hesperus 33 type television screen size 32 inch audio nicam stereo resolution 720p". Here is a rewrite of the text, which is a describe dialogue act: "hesperus 33 is a nice television. its screen size is 32 inch, its audio is NICAM stereo, and its resolution is 720p."
+
+Here is a text: "thanatos 85 type television has usb port true hdmi port 2 eco rating a+". Here is a rewrite of the text, which is a describe dialogue act: "thanatos 85 is a television which has usb ports, has 2 hdmi ports, and is in the A+ eco rating."
+
+Here is a text: "plutus 32 type television screen size range small accessories remote control price range cheap". Here is a rewrite of the text, which is a describe dialogue act: "the plutus 32 is a small screen television , which includes a remote control , and is available in for a cheap price ."
+
+Here is a text: "plutus 32 type television screen size 24 inch audio nicam stereo has usb port true". Here is a rewrite of the text, which is a describe dialogue act: "the plutus 32 television is a solid choice . it features a 24 inch screen , provides nicam stereo audio , and has a usb port ."
+
+Here is a text: "hades 76 type television has usb port false accessories remote control and active 3d glasses eco rating c". Here is a rewrite of the text, which is a describe dialogue act: "hades 76 is a nice television. which does not have any usb ports, it comes with remote control and active 3d glasses, and it has a C eco rating."
+
+Here is a text: "typhon 71 type television family w1 price 1000 dollars screen size range small". Here is a rewrite of the text, which is a describe dialogue act: "the typhon 71 is a small television in the w1 family that costs 1000 dollars"
+
+Here is a text: "oceanus 39 type television resolution 1080p accessories remote control and european warranty". Here is a rewrite of the text, which is a describe dialogue act: "oceanus 39 is a nice television. its resolution is 1080p and it comes with remote control and european warranty"
+
+Here is a text: "chronos 52 type television price range cheap power consumption 62 watt color matt white bezel with white trim and white frame stand". Here is a rewrite of the text, which is a describe dialogue act: "chronos 52 is a nice television. it is in the cheap price range, its power consumption is 62 watt, and its color is matt white bezel with white trim and white frame stand."

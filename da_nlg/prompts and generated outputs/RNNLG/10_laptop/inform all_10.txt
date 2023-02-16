@@ -1,0 +1,19 @@
+Here is a text: "type television has usb port true ecorating a+". Here is a rewrite of the text, which is a inform all dialogue act: "All televisions which has usb ports are in the A+ eco rating"
+
+Here is a text: "type television screen size range medium has usb port true". Here is a rewrite of the text, which is a inform all dialogue act: "All televisions in the medium screen size range have usb ports"
+
+Here is a text: "type television has usb port true ecorating a+". Here is a rewrite of the text, which is a inform all dialogue act: "All televisions which has usb ports are in the A+ eco rating"
+
+Here is a text: "type television hdmi port 2 family w1". Here is a rewrite of the text, which is a inform all dialogue act: "All televisions with 2 hdmi ports are in the W1 family"
+
+Here is a text: "type television ecorating a family l1". Here is a rewrite of the text, which is a inform all dialogue act: "All televisions in the A eco rating are in the L1 family"
+
+Here is a text: "type television has usb port true". Here is a rewrite of the text, which is a inform all dialogue act: "All televisions have usb ports"
+
+Here is a text: "type television family w1 ecorating a+". Here is a rewrite of the text, which is a inform all dialogue act: "All televisions in the W1 family are in the A+ eco rating"
+
+Here is a text: "type television ecorating c price range cheap". Here is a rewrite of the text, which is a inform all dialogue act: "our cheap television sets have an eco rating of c ."
+
+Here is a text: "type television has usb port false price range cheap". Here is a rewrite of the text, which is a inform all dialogue act: "All televisions which does not have any usb ports are in the cheap price range"
+
+Here is a text: "type television family w1 ecorating a+". Here is a rewrite of the text, which is a inform all dialogue act: "All televisions in the W1 family are in the A+ eco rating"

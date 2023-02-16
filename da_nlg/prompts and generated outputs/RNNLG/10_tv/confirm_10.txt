@@ -1,0 +1,19 @@
+Here is a text: "type television hdmi port 2". Here is a rewrite of the text, which is a confirm dialogue act: "for the sake of clarity , you are looking for a television with 2 hdmi ports ?"
+
+Here is a text: "type television has usb port true price range cheap". Here is a rewrite of the text, which is a confirm dialogue act: "Let me confirm, a television which has usb ports and in the cheap price range right"
+
+Here is a text: "type television price range cheap has usb port don't care". Here is a rewrite of the text, which is a confirm dialogue act: "let me confirm , a cheap television , correct ?"
+
+Here is a text: "type television has usb port false price range cheap". Here is a rewrite of the text, which is a confirm dialogue act: "Let me confirm, a television which does not have any usb ports and in the cheap price range right"
+
+Here is a text: "type television family don't care price range cheap". Here is a rewrite of the text, which is a confirm dialogue act: "Let me confirm, a television in any product family and in the cheap price range right"
+
+Here is a text: "type television has usb port don't care". Here is a rewrite of the text, which is a confirm dialogue act: "Let me confirm, a television you don't care about whether it has usb port or not right"
+
+Here is a text: "type television price range don't care has usb port true". Here is a rewrite of the text, which is a confirm dialogue act: "Let me confirm, a television in any price range and which has usb ports right"
+
+Here is a text: "type television has usb port true family w1". Here is a rewrite of the text, which is a confirm dialogue act: "let me confirm , a w1 family television which has usb ports right"
+
+Here is a text: "type television family don't care price range cheap". Here is a rewrite of the text, which is a confirm dialogue act: "Let me confirm, a television in any product family and in the cheap price range right"
+
+Here is a text: "type television hdmi port 4 price range don't care". Here is a rewrite of the text, which is a confirm dialogue act: "please , can you confirm that you would like a television with 4 hdmi ports and no price preference ?"

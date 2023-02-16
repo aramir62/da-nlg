@@ -1,0 +1,19 @@
+Here is a text: "pricus 15 type television eco rating a+ color mat black bezel with mat black frame stand has usb port false". Here is a rewrite of the text, which is a recommend dialogue act: "pricus 15 is a nice television. it has a A+ eco rating, its color is mat black bezel with mat black frame stand, and which does not have any usb ports."
+
+Here is a text: "typhon 48 type television hdmi port 4 screen size 42 inch". Here is a rewrite of the text, which is a recommend dialogue act: "equipped with 4 hdmi ports and a 42 inch screen , the typhon 48 is a terrific television ."
+
+Here is a text: "aeolus 34 type television power consumption 84 watt screen size 55 inch price range cheap". Here is a rewrite of the text, which is a recommend dialogue act: "aeolus 34 is a nice television. its power consumption is 84 watt, its screen size is 55 inch, and it is in the cheap price range."
+
+Here is a text: "typhon 48 type television power consumption 55 watt has usb port true screen size 42 inch". Here is a rewrite of the text, which is a recommend dialogue act: "typhon 48 is a nice television. its power consumption is 55 watt, which has usb ports, and its screen size is 42 inch."
+
+Here is a text: "cerus 13 type television power consumption 40 watt eco rating a+ audio nicam stereo". Here is a rewrite of the text, which is a recommend dialogue act: "the cerus 13 television has a power consumption of 40 watt and a a+ eco rating . it's audio is nicam stereo ."
+
+Here is a text: "oceanus 39 type television resolution 1080p accessories remote control and european warranty". Here is a rewrite of the text, which is a recommend dialogue act: "oceanus 39 is a nice television. its resolution is 1080p and it comes with remote control and european warranty"
+
+Here is a text: "hesperus 33 type television screen size 32 inch audio nicam stereo resolution 720p". Here is a rewrite of the text, which is a recommend dialogue act: "hesperus 33 is a nice television. its screen size is 32 inch, its audio is NICAM stereo, and its resolution is 720p."
+
+Here is a text: "plutus 32 type television screen size 24 inch audio nicam stereo has usb port true". Here is a rewrite of the text, which is a recommend dialogue act: "the plutus 32 television is a solid choice . it features a 24 inch screen , provides nicam stereo audio , and has a usb port ."
+
+Here is a text: "hades 76 type television has usb port false accessories remote control and active 3d glasses eco rating c". Here is a rewrite of the text, which is a recommend dialogue act: "hades 76 is a nice television. which does not have any usb ports, it comes with remote control and active 3d glasses, and it has a C eco rating."
+
+Here is a text: "chronos 52 type television price range cheap power consumption 62 watt color matt white bezel with white trim and white frame stand". Here is a rewrite of the text, which is a recommend dialogue act: "chronos 52 is a nice television. it is in the cheap price range, its power consumption is 62 watt, and its color is matt white bezel with white trim and white frame stand."

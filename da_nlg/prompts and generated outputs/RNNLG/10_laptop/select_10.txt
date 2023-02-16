@@ -1,0 +1,19 @@
+Here is a text: "hdmi port 4 hdmi port don't care". Here is a rewrite of the text, which is a select dialogue act: "do you not care about the number of hdmi ports , or do you want 4"
+
+Here is a text: "hdmi port 4 hdmi port don't care". Here is a rewrite of the text, which is a select dialogue act: "do you not care about the number of hdmi ports , or do you want 4"
+
+Here is a text: "ecorating a++ ecorating a+". Here is a rewrite of the text, which is a select dialogue act: "Sorry would you like A++ or A+ for ecorating"
+
+Here is a text: "hdmi port 4 hdmi port don't care". Here is a rewrite of the text, which is a select dialogue act: "Sorry would you like something with 4 hdmi ports or you don't care"
+
+Here is a text: "ecorating a++ ecorating a+". Here is a rewrite of the text, which is a select dialogue act: "Sorry would you like A++ or A+ for ecorating"
+
+Here is a text: "ecorating a++ ecorating a+". Here is a rewrite of the text, which is a select dialogue act: "Sorry would you like A++ or A+ for ecorating"
+
+Here is a text: "family l1 family l6". Here is a rewrite of the text, which is a select dialogue act: "Sorry would you like L1 or L6 for family"
+
+Here is a text: "hdmi port 4 hdmi port don't care". Here is a rewrite of the text, which is a select dialogue act: "do you not care about the number of hdmi ports , or do you want 4"
+
+Here is a text: "hdmi port 4 hdmi port don't care". Here is a rewrite of the text, which is a select dialogue act: "Sorry would you like something with 4 hdmi ports or you don't care"
+
+Here is a text: "hdmi port 4 hdmi port 3". Here is a rewrite of the text, which is a select dialogue act: "Sorry would you like 4 or 3 for hdmiport"

@@ -1,0 +1,19 @@
+Here is a text: "type television ecorating a+ family l2 has usb port true". Here is a rewrite of the text, which is a inform no match dialogue act: "unfortunately , there aren't any televisions in the l2 product family that have an a+ eco rating and usb ports ."
+
+Here is a text: "type television price range cheap screen size range small ecorating a+". Here is a rewrite of the text, which is a inform no match dialogue act: "There are no televisions in the cheap price range, in the small screen size range and in the A+ eco rating"
+
+Here is a text: "type television hdmi port 2 has usb port false family l1". Here is a rewrite of the text, which is a inform no match dialogue act: "There are no televisions with 2 hdmi ports, which does not have any usb ports and in the L1 family"
+
+Here is a text: "type television has usb port true screen size range medium price range cheap". Here is a rewrite of the text, which is a inform no match dialogue act: "There are no televisions which has usb ports, in the medium screen size range and in the cheap price range"
+
+Here is a text: "type television has usb port true family l2 screen size range large". Here is a rewrite of the text, which is a inform no match dialogue act: "There are no televisions which has usb ports, in the L2 family and in the large screen size range"
+
+Here is a text: "type television screen size range medium has usb port false hdmi port 2". Here is a rewrite of the text, which is a inform no match dialogue act: "There are no televisions in the medium screen size range, which does not have any usb ports and with 2 hdmi ports"
+
+Here is a text: "type television has usb port true family t5". Here is a rewrite of the text, which is a inform no match dialogue act: "There are no televisions which has usb ports and in the T5 family"
+
+Here is a text: "type television family l7 hdmi port 4". Here is a rewrite of the text, which is a inform no match dialogue act: "i'm sorry , but there are not televisions with 4 hdmi ports in the l7 family ."
+
+Here is a text: "type television family l6 has usb port true screen size range large". Here is a rewrite of the text, which is a inform no match dialogue act: "There are no televisions in the L6 family, which has usb ports and in the large screen size range"
+
+Here is a text: "type television screen size range small has usb port false family w1". Here is a rewrite of the text, which is a inform no match dialogue act: "There are no televisions in the small screen size range, which does not have any usb ports and in the W1 family"

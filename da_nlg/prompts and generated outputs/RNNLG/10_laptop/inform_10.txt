@@ -1,0 +1,19 @@
+Here is a text: "apollo 96 type television price 1000 dollars ecorating a+ family l2". Here is a rewrite of the text, which is a inform dialogue act: "at a cost of 1000 dollars , the apollo 96 is a television in the l2 family with a good a+ eco rating ."
+
+Here is a text: "crios 89 type television power consumption 30 watt family l1 ecorating a+". Here is a rewrite of the text, which is a inform dialogue act: "crios 89 is a television which has 30 watt power consumption, is in the L1 product family, and is in the A+ eco rating."
+
+Here is a text: "eurus 24 type television accessories remote control and passive 3d glasses and european warranty has usb port true". Here is a rewrite of the text, which is a inform dialogue act: "the eurus 24 television includes remote control and passive 3d glasses and european warranty . it also has a usb port ."
+
+Here is a text: "ares 11 type television has usb port true audio nicam stereo price range cheap". Here is a rewrite of the text, which is a inform dialogue act: "the ares 11 television has a usb port , a nicam stereo and is in the cheap price range ."
+
+Here is a text: "pricus 15 type television audio nicam stereo hdmi port 2 color mat black bezel with mat black frame stand". Here is a rewrite of the text, which is a inform dialogue act: "pricus 15 is a television which has a NICAM stereo audio equipment, has 2 hdmi ports, and has a color of mat black bezel with mat black frame stand."
+
+Here is a text: "apollo 96 type television price 1000 dollars accessories remote control and european warranty ecorating a+". Here is a rewrite of the text, which is a inform dialogue act: "apollo 96 is a television which costs 1000 dollars, comes with remote control and european warranty, and is in the A+ eco rating."
+
+Here is a text: "typhon 48 type television power consumption 55 watt price 1100 dollars screensize 42 inch". Here is a rewrite of the text, which is a inform dialogue act: "typhon 48 is a television which has 55 watt power consumption, costs 1100 dollars, and has a 42 inch screen size."
+
+Here is a text: "pallas 86 type television power consumption 87.6 watt family l7 has usb port true". Here is a rewrite of the text, which is a inform dialogue act: "the pallas 86 television in the l7 family has a usb port and consumes 87.6 watts ."
+
+Here is a text: "pontus 43 type television has usb port true ecorating a+ accessories remote control and european warranty". Here is a rewrite of the text, which is a inform dialogue act: "pontus 43 is a television which has usb ports, is in the A+ eco rating, and comes with remote control and european warranty."
+
+Here is a text: "momus 29 type television audio nicam stereo resolution 720p has usb port true". Here is a rewrite of the text, which is a inform dialogue act: "momus 29 is a television which has a NICAM stereo audio equipment, has 720p resolution, and has usb ports."

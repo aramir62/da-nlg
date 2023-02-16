@@ -1,0 +1,19 @@
+Here is a text: "count 83 type television eco rating a+ price range don't care family w1". Here is a rewrite of the text, which is an inform count dialogue act: "There are 83 televisions in the A+ eco rating, if you don't care about the price range and in the W1 family"
+
+Here is a text: "count 70 type television screen size range medium has usb port don't care price range cheap". Here is a rewrite of the text, which is an inform count dialogue act: "There are 70 televisions in the medium screen size range, if you don't care about whether it has usb port or not and in the cheap price range"
+
+Here is a text: "count 11 type television screen size range don't care family don't care hdmi port 4". Here is a rewrite of the text, which is an inform count dialogue act: "in response to your search query 11 television were found with 4 hdmi ports if you don't care about product family or screen size range"
+
+Here is a text: "count 50 type television eco rating don't care family w1 has usb port false". Here is a rewrite of the text, which is an inform count dialogue act: "There are 50 televisions if you don't care about its eco rating, in the W1 family and which does not have any usb ports"
+
+Here is a text: "count 59 type television family don't care has usb port don't care eco rating don't care". Here is a rewrite of the text, which is an inform count dialogue act: "There are 59 televisions in all product family, if you don't care about whether it has usb port or not and if you don't care about its eco rating"
+
+Here is a text: "count 74 type television hdmi port don't care family don't care price range cheap". Here is a rewrite of the text, which is an inform count dialogue act: "There are 74 televisions if you don't care about the number of hdmi ports, in all product family and in the cheap price range"
+
+Here is a text: "count 63 type television hdmi port don't care has usb port true price range cheap". Here is a rewrite of the text, which is an inform count dialogue act: "There are 63 televisions if you don't care about the number of hdmi ports, which has usb ports and in the cheap price range"
+
+Here is a text: "count 105 type television hdmi port don't care family don't care eco rating a+". Here is a rewrite of the text, which is an inform count dialogue act: "There are 105 televisions if you don't care about the number of hdmi ports, in all product family and in the A+ eco rating"
+
+Here is a text: "count 63 type television hdmi port don't care has usb port true price range cheap". Here is a rewrite of the text, which is an inform count dialogue act: "There are 63 televisions if you don't care about the number of hdmi ports, which has usb ports and in the cheap price range"
+
+Here is a text: "count 65 type television hdmi port don't care eco rating a+ has usb port false". Here is a rewrite of the text, which is an inform count dialogue act: "there are 65 televisions with no usb ports and a a+ eco rating , ignoring hdmi ports ."
