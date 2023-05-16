@@ -1,0 +1,29 @@
+Here is a text: "I want to know which aspect perspective". Here is a paraphrase of the text: "Which perspective is the one that you prefer the most?"
+
+
+Here is a text: "I want to know which aspect Mac". Here is a paraphrase of the text: "Do you play your games on Mac?"
+
+
+Here is a text: "I want to know which aspect developer". Here is a paraphrase of the text: "Who is your favorite game developer?"
+
+
+Here is a text: "I want to know which aspect genres". Here is a paraphrase of the text: "What are the genres of your favorite video games?"
+
+
+Here is a text: "I want to know which aspect Linux". Here is a paraphrase of the text: "Do you ever play games on a Linux system?"
+
+
+Here is a text: "I want to know which aspect multiplayer". Here is a paraphrase of the text: "Do you prefer to game with others, I mean, multiplayer?"
+
+
+Here is a text: "I want to know which aspect year". Here is a paraphrase of the text: "Which year would you say was the most memorable, as far as video games are concerned?"
+
+
+Here is a text: "I want to know which aspect perspective". Here is a paraphrase of the text: "Would you say there is a player perspective in games that you in general like the most?"
+
+
+Here is a text: "I want to know which aspect platforms". Here is a paraphrase of the text: "What gaming platform do you generally choose?"
+
+
+Here is a text: "I want to know which aspect ESRB". Here is a paraphrase of the text: "Is there a particular ESRB content rating a game must have for you to even consider it?"
+

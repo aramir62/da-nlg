@@ -1,0 +1,51 @@
+description of <confirm>: Imagine that the game's name has just been mentioned in the conversation, but you know of multiple games with that name and want to verify if your friend meant the same one as you.The response should consist of a single yes/no question.No extra information should be added in Data to Text for <confirm>:
+
+
+Data: confirm = yes | name = Layers of Fear | genres = adventure, indie, point-and-click | player_perspective = first person
+
+Data to Text for <confirm>: Are you referring to Layers of Fear, the first person indie point-and-click adventure game?
+
+
+Data: confirm = yes | name = Horizon: Zero Dawn | genres = action-adventure, role-playing, shooter
+
+Data to Text for <confirm>: By Horizon: Zero Dawn, do you mean the action-adventure shooter with role-playing elements?
+
+
+Data: confirm = yes | name = Hellblade: Senua's Sacrifice | platforms = PC | available_on_steam = yes
+
+Data to Text for <confirm>: Are you talking about Hellblade: Senua's Sacrifice which is available on Steam for the PC?
+
+
+Data: confirm = yes | name = Ancient Cities | developer = Uncasual Games | genres = simulation, strategy
+
+Data to Text for <confirm>: Ancient Cities, the strategy sim developed by Uncasual Games?
+
+
+Data: confirm = yes | name = Battlefield V | has_multiplayer = yes
+
+Data to Text for <confirm>: Are you referring to the Battlefield V that has a multiplayer option?
+
+
+Data: confirm = yes | name = BioShock | esrb = M (for Mature) | platforms = PC
+
+Data to Text for <confirm>: You mean the PC game BioShock, which is rated M (for Mature)?
+
+
+Data: confirm = yes | name = Diablo II | platforms = PC
+
+Data to Text for <confirm>: You mentioned Diablo II, by that are you referring to the PC game?
+
+
+Data: confirm = yes | name = FIFA 12 | developer = EA Canada | genres = simulation, sport
+
+Data to Text for <confirm>: Oh! So you're referring to the FIFA 12 sports simulation game from EA Canada?
+
+
+Data: confirm = yes | name = Grand Theft Auto V | player_perspective = third person
+
+Data to Text for <confirm>: Do you mean the Grand Theft Auto V that has got a third person perspective?
+
+
+Data: confirm = yes | name = Mafia | release_year = 2002 | developer = Illusion Softworks
+
+Data to Text for <confirm>: Are you talking about Illusion Softworks' Mafia from 2002?

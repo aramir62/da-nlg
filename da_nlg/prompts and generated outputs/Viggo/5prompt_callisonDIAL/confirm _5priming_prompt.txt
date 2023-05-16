@@ -1,0 +1,9 @@
+Here is a text: "Horizon: Zero Dawn action-adventure, role-playing, shooter". Rewrite it to be a confirm  dialogue act: "By Horizon: Zero Dawn, do you mean the action-adventure shooter with role-playing elements?"
+
+Here is a text: "Ancient Cities Uncasual Games simulation, strategy". Rewrite it to be a confirm  dialogue act: "Ancient Cities, the strategy sim developed by Uncasual Games?"
+
+Here is a text: "Layers of Fear adventure, indie, point-and-click first person". Rewrite it to be a confirm  dialogue act: "Are you referring to Layers of Fear, the first person indie point-and-click adventure game?"
+
+Here is a text: "Battlefield V multiplayer". Rewrite it to be a confirm  dialogue act: "Are you referring to the Battlefield V that has a multiplayer option?"
+
+Here is a text: "Hellblade: Senua's Sacrifice PC Steam". Rewrite it to be a confirm  dialogue act: "Are you talking about Hellblade: Senua's Sacrifice which is available on Steam for the PC?"

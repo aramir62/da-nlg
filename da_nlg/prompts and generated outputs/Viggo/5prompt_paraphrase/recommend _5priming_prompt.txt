@@ -1,0 +1,9 @@
+Here is a text: "I recommend Resident Evil 4 2005 third person". Here is a paraphrase of the text: "A good third person game I played from back in 2005 was Resident Evil 4. Have you ever played it before?"
+
+Here is a text: "I recommend NBA 2K16 Visual Concepts". Here is a paraphrase of the text: "Ever tried NBA 2K16 developed by Visual Concepts?"
+
+Here is a text: "I recommend The Wolf Among Us not multiplayer PC". Here is a paraphrase of the text: "One of my favorite single-player PC games is The Wolf Among Us, do you know about it?"
+
+Here is a text: "I recommend Metroid Prime Pinball Fuse Games". Here is a paraphrase of the text: "Since you're into games developed by Fuse Games, I wonder if you've tried Metroid Prime Pinball yet."
+
+Here is a text: "I recommend Sid Meier's Civilization V Steam". Here is a paraphrase of the text: "I know you got some Steam credits for your birthday. Have you tried Sid Meier's Civilization V yet?"

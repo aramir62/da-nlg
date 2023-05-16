@@ -1,0 +1,20 @@
+Here is a text: "Little Nightmares good adventure, platformer, puzzle side view". Here is a rewrite of the text, which is a give opinion dialogue act: "Adventure games that combine platforming and puzzles can be frustrating to play, but the side view perspective is perfect for them. That's why I enjoyed playing Little Nightmares."
+
+Here is a text: "World of Warcraft Blizzard Entertainment good". Here is a rewrite of the text, which is a give opinion dialogue act: "World of Warcraft is a fun game. Blizzard Entertainment is a developer that knows what they're doing and always produces a solid product."
+
+Here is a text: "Age of Wonders II: The Wizard's Throne poor role-playing, turn-based strategy". Here is a rewrite of the text, which is a give opinion dialogue act: "Age of Wonders II: The Wizard's Throne is an all around poor example of a turn-based strategy RPG game."
+
+Here is a text: "Age of Empires II: The Age of Kings T (for Teen) good multiplayer". Here is a rewrite of the text, which is a give opinion dialogue act: "I have fun playing Age of Empires II: The Age of Kings. I like that it has a multiplayer and, since it's only rated T (for Teen), I'm able to play it with friends and younger siblings."
+
+Here is a text: "BioShock M (for Mature) good Steam". Here is a rewrite of the text, which is a give opinion dialogue act: "BioShock is a solid M rated game available on both Steam and Linux."
+
+Here is a text: "Call of Duty: Advanced Warfare Sledgehammer Games average multiplayer". Here is a rewrite of the text, which is a give opinion dialogue act: "Call of Duty: Advanced Warfare is pretty average in my view. I think that Sledgehammer Games is a talented developer, but adding multiplayer to the game just diluted their focus and made playing it just a so-so experience."
+
+Here is a text: "Commandos: Behind Enemy Lines Pyro Studios good bird view". Here is a rewrite of the text, which is a give opinion dialogue act: "I think that games with a bird view perspective can be pretty fun if executed well, and fortunately, Pyro Studios is a competent developer. That's why I enjoyed playing Commandos: Behind Enemy Lines."
+
+Here is a text: "Far Cry 3 good PlayStation". Here is a rewrite of the text, which is a give opinion dialogue act: "I enjoyed playing Far Cry 3, like I do pretty much all PlayStation games."
+
+Here is a text: "Madden NFL 15 average multiplayer". Here is a rewrite of the text, which is a give opinion dialogue act: "Madden NFL 15 is average I guess. At first I didn't like it at all, but the multiplayer made it somewhat worthwhile."
+
+Here is a text: "Super Mario World E (for Everyone) excellent multiplayer". Here is a rewrite of the text, which is a give opinion dialogue act: "Super Mario World is my current favorite game. I love multiplayer games that are rated E (for Everyone), so this is really my cup of tea!".
+

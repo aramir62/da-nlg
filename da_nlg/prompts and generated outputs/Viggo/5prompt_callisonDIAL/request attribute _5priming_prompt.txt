@@ -1,0 +1,9 @@
+Here is a text: "Mac". Rewrite it to be a request attribute  dialogue act: "Do you play your games on Mac?"
+
+Here is a text: "genres". Rewrite it to be a request attribute  dialogue act: "What are the genres of your favorite video games?"
+
+Here is a text: "developer". Rewrite it to be a request attribute  dialogue act: "Who is your favorite game developer?"
+
+Here is a text: "Linux". Rewrite it to be a request attribute  dialogue act: "Do you ever play games on a Linux system?"
+
+Here is a text: "perspective". Rewrite it to be a request attribute  dialogue act: "Which perspective is the one that you prefer the most?"

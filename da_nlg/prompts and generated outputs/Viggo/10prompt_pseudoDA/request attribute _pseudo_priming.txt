@@ -1,0 +1,29 @@
+request attribute perspective
+Which perspective is the one that you prefer the most?
+
+request attribute Mac
+Do you play your games on Mac?
+
+request attribute developer
+Who is your favorite game developer?
+
+request attribute genres
+What are the genres of your favorite video games?
+
+request attribute Linux
+Do you ever play games on a Linux system?
+
+request attribute multiplayer
+Do you prefer to game with others, I mean, multiplayer?
+
+request attribute year
+Which year would you say was the most memorable, as far as video games are concerned?
+
+request attribute perspective
+Would you say there is a player perspective in games that you in general like the most?
+
+request attribute platforms
+What gaming platform do you generally choose?
+
+request attribute ESRB
+Is there a particular ESRB content rating a game must have for you to even consider it?

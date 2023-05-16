@@ -1,0 +1,20 @@
+Here is a text: "Sid Meier's Civilization V Steam". Here is a rewrite of the text, which is a recommend dialogue act: "I know you got some Steam credits for your birthday. Have you tried Sid Meier's Civilization V yet?"
+
+Here is a text: "Resident Evil 4 2005 third person". Here is a rewrite of the text, which is a recommend dialogue act: "A good third person game I played from back in 2005 was Resident Evil 4. Have you ever played it before?"
+
+Here is a text: "The Wolf Among Us not multiplayer PC". Here is a rewrite of the text, which is a recommend dialogue act: "One of my favorite single-player PC games is The Wolf Among Us, do you know about it?"
+
+Here is a text: "Metroid Prime Pinball Fuse Games". Here is a rewrite of the text, which is a recommend dialogue act: "Since you're into games developed by Fuse Games, I wonder if you've tried Metroid Prime Pinball yet."
+
+Here is a text: "NBA 2K16 Visual Concepts". Here is a rewrite of the text, which is a recommend dialogue act: "Ever tried NBA 2K16 developed by Visual Concepts?"
+
+Here is a text: "Need for Speed: Most Wanted driving/racing first person". Here is a rewrite of the text, which is a recommend dialogue act: "I was playing Need for Speed: Most Wanted last night, you heard of it? It's a first person driving game."
+
+Here is a text: "Never Alone side view". Here is a rewrite of the text, which is a recommend dialogue act: "While we're on the subject of games played from a side view perspective, have you ever heard of Never Alone?"
+
+Here is a text: "The Witcher 3: Wild Hunt action-adventure, role-playing third person". Here is a rewrite of the text, which is a recommend dialogue act: "Since you like action-adventure games from a third person perspective with role-playing elements, you should try this game I like, The Witcher 3: Wild Hunt?"
+
+Here is a text: "Uncharted 4: A Thief's End Naughty Dog PlayStation". Here is a rewrite of the text, which is a recommend dialogue act: "Have you heard of Uncharted 4: A Thief's End? It's this PlayStation game from Naughty Dog."
+
+Here is a text: "Worms: Reloaded Linux Mac". Here is a rewrite of the text, which is a recommend dialogue act: "If you're looking for a game with both a Mac release and a Linux release, Worms: Reloaded is one. Have you heard of it before?".
+

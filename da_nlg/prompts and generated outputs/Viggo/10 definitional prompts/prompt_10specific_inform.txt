@@ -1,0 +1,51 @@
+description of <inform>: A summary of the video game based on the information provided in attribute data.                 The summary would typically consist of 1-3 sentences, depending on the amount of information presented in the table.                No extra information should be added in Data to Text for <inform>:
+
+
+Data: inform = yes | name = Dirt: Showdown | release_year = 2012 | esrb = E 10+ (for Everyone 10 and Older) | genres = driving/racing, sport | platforms = PlayStation, Xbox, PC | available_on_steam = no | has_linux_release = no | has_mac_release = no
+
+Data to Text for <inform>: Dirt: Showdown from 2012 is a sport racing game for the PlayStation, Xbox, PC rated E 10+ (for Everyone 10 and Older). It's not available on Steam, Linux, or Mac.
+
+
+Data: inform = yes | name = The Vanishing of Ethan Carter | release_year = 2014 | developer = The Astronauts | rating = average | genres = adventure, indie | player_perspective = first person | has_multiplayer = no
+
+Data to Text for <inform>: The Vanishing of Ethan Carter is an average indie adventure game from 2014. Its single-player campaign, developed by the Astronauts, is presented entirely in first person.
+
+
+Data: inform = yes | name = Metroid Prime Pinball | developer = Fuse Games | esrb = E (for Everyone) | rating = average | genres = pinball, puzzle | platforms = Nintendo
+
+Data to Text for <inform>: Metroid Prime Pinball by Fuse Games is an E (for Everyone) pinball-puzzle game. It runs on Nintendo, and it has average ratings.
+
+
+Data: inform = yes | name = Age of Empires II: The Age of Kings | developer = Ensemble Studios | esrb = T (for Teen) | rating = good | genres = real-time strategy | player_perspective = bird view
+
+Data to Text for <inform>: Age of Empires II: The Age of Kings is a good real-time strategy game that has a bird view. Ensemble Studios developed it, and it is rated T (for Teen).
+
+
+Data: inform = yes | name = Alan Wake's American Nightmare | release_year = 2012 | genres = action-adventure, shooter | player_perspective = third person | platforms = Xbox, PC | available_on_steam = yes
+
+Data to Text for <inform>: Alan Wake's American Nightmare is a 2012 action-adventure game developed for the Xbox and PC. The third person shooter is currently available on Steam.
+
+
+Data: inform = yes | name = Football Manager 2015 | genres = simulation, sport, strategy | has_multiplayer = yes
+
+Data to Text for <inform>: Football Manager 2015 is sport simulation game as well as a strategy game, and it does have multiplayer.
+
+
+Data: inform = yes | name = Hellblade: Senua's Sacrifice | rating = excellent | genres = adventure, hack-and-slash, indie | player_perspective = third person | platforms = PlayStation, Xbox, PC | available_on_steam = yes
+
+Data to Text for <inform>: One of my favorite indie, hack-and-slash adventures with a third person perspective is Hellblade: Senua's Sacrifice. It is an excellent game. You can get it on PlayStation, Xbox, or PC, and is available on Steam.
+
+
+Data: inform = yes | name = Little Big Adventure | release_year = 1994 | genres = action-adventure | player_perspective = third person
+
+Data to Text for <inform>: Little Big Adventure is an action-adventure game that is in the third person. The game came out in 1994.
+
+
+Data: inform = yes | name = Need for Speed: Shift | release_year = 2009 | developer = Slightly Mad Studios | rating = average | genres = driving/racing, simulation | player_perspective = first person, third person
+
+Data to Text for <inform>: The 2009 game, Need for Speed: Shift, is a rather average game for a racing simulator. It allows you to drive with a first or third person perspective, according to your preference. It's a game by Slightly Mad Studios.
+
+
+Data: inform = yes | name = StarCraft | rating = good | genres = real-time strategy | player_perspective = bird view
+
+Data to Text for <inform>: StarCraft is a good real-time strategy played with a bird view.

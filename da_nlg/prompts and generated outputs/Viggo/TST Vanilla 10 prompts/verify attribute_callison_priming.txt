@@ -1,0 +1,20 @@
+Here is a text: "Uncharted 4: A Thief's End excellent multiplayer". Here is a rewrite of the text, which is a verify attribute dialogue act: "Is playing multiplayer games something you're always up to, or was Uncharted 4: A Thief's End an unusually good one?"
+
+Here is a text: "Euro Truck Simulator SCS Software poor driving/racing, simulation". Here is a rewrite of the text, which is a verify attribute dialogue act: "I know you didn't like Euro Truck Simulator. Do you also dislike other SCS Software driving games?"
+
+Here is a text: "Assassin's Creed II Ubisoft Montreal good PlayStation". Here is a rewrite of the text, which is a verify attribute dialogue act: "Since you enjoyed playing Assassin's Creed II, are you into other PlayStation games by Ubisoft Montreal?"
+
+Here is a text: "Crysis M (for Mature) good Xbox". Here is a rewrite of the text, which is a verify attribute dialogue act: "I remember you said you enjoyed Crysis. Are you a fan of Xbox games rated M (for Mature)?"
+
+Here is a text: "Driver average driving/racing, simulation not multiplayer". Here is a rewrite of the text, which is a verify attribute dialogue act: "I recall you mentioned that Driver was just an average game. Does this sentiment hold for all driving/racing simulations which are single-player?"
+
+Here is a text: "Far Cry 3 good action-adventure, shooter first person". Here is a rewrite of the text, which is a verify attribute dialogue act: "Previously you told me that you like to play Far Cry 3. Does it mean you are fond of first person shooter games with lots of action and adventure in general?"
+
+Here is a text: "Guitar Hero: Smash Hits poor music multiplayer". Here is a rewrite of the text, which is a verify attribute dialogue act: "I remember you don't like Guitar Hero: Smash Hits. Do you think making it a single-player only game would have been a better idea for this type of a music game?"
+
+Here is a text: "Life is Strange good third person not multiplayer". Here is a rewrite of the text, which is a verify attribute dialogue act: "You told me you liked playing Life is Strange. Are you a into other third person, single-player games?"
+
+Here is a text: "Need for Speed: The Run Firebrand Games average Xbox". Here is a rewrite of the text, which is a verify attribute dialogue act: "You said that you Need for Speed: The Run was mediocre. Does the same sentiment apply to other Firebrand Games on the Xbox?"
+
+Here is a text: "Small World 2 Days of Wonder poor". Here is a rewrite of the text, which is a verify attribute dialogue act: "You mentioned how much you dislike Small World 2. Does Days of Wonder often mess up games in your experience?".
+

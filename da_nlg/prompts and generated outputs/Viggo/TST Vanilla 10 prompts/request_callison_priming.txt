@@ -1,0 +1,20 @@
+Here is a text: "2014 terrible". Here is a rewrite of the text, which is a request dialogue act: "Were there even any terrible games in 2014?"
+
+Here is a text: "Firefly Studios upcoming". Here is a rewrite of the text, which is a request dialogue act: "Are there any upcoming games from Firefly Studios you're looking forward to?"
+
+Here is a text: "mindless". Here is a rewrite of the text, which is a request dialogue act: "What's a nice mindless game you can think of that I could play to just unwind?"
+
+Here is a text: "Steam ugliest". Here is a rewrite of the text, which is a request dialogue act: "What's the ugliest game you've found on Steam so far?"
+
+Here is a text: "Overkill Software empowering". Here is a rewrite of the text, which is a request dialogue act: "Ever played a game from Overkill Software you felt was empowering?"
+
+Here is a text: "action-adventure easy". Here is a rewrite of the text, which is a request dialogue act: "Do you know of any action-adventure games that are nice and easy?"
+
+Here is a text: "Linux frightening". Here is a rewrite of the text, which is a request dialogue act: "Do you know of any frightening games that are available on Linux?"
+
+Here is a text: "PlayStation weirdest". Here is a rewrite of the text, which is a request dialogue act: "What's the weirdest game you've ever played on PlayStation."
+
+Here is a text: "boring". Here is a rewrite of the text, which is a request dialogue act: "Did you find any releases this year to be overly boring?"
+
+Here is a text: "unfair". Here is a rewrite of the text, which is a request dialogue act: "What's the first game that comes to your mind about which you felt it was just unfair?".
+

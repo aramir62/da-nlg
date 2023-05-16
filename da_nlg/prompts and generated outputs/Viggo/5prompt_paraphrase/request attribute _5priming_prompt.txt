@@ -1,0 +1,9 @@
+Here is a text: "I want to know which aspect Mac". Here is a paraphrase of the text: "Do you play your games on Mac?"
+
+Here is a text: "I want to know which aspect genres". Here is a paraphrase of the text: "What are the genres of your favorite video games?"
+
+Here is a text: "I want to know which aspect developer". Here is a paraphrase of the text: "Who is your favorite game developer?"
+
+Here is a text: "I want to know which aspect Linux". Here is a paraphrase of the text: "Do you ever play games on a Linux system?"
+
+Here is a text: "I want to know which aspect perspective". Here is a paraphrase of the text: "Which perspective is the one that you prefer the most?"

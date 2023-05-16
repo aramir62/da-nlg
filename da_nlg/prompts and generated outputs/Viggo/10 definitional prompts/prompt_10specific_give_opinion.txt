@@ -1,0 +1,51 @@
+description of <give_opinion>: An expression of opinion along with its justification.The response may consist of 1 or 2 sentences, but it must contain both an opinion and its justification.The justification will also be based on the given attributes.No extra information should be added in Data to Text for <give_opinion>:
+
+
+Data: give_opinion = yes | name = Little Nightmares | rating = good | genres = adventure, platformer, puzzle | player_perspective = side view
+
+Data to Text for <give_opinion>: Adventure games that combine platforming and puzzles can be frustrating to play, but the side view perspective is perfect for them. That's why I enjoyed playing Little Nightmares.
+
+
+Data: give_opinion = yes | name = World of Warcraft | developer = Blizzard Entertainment | rating = good
+
+Data to Text for <give_opinion>: World of Warcraft is a fun game. Blizzard Entertainment is a developer that knows what they're doing and always produces a solid product.
+
+
+Data: give_opinion = yes | name = Age of Wonders II: The Wizard's Throne | rating = poor | genres = role-playing, turn-based strategy
+
+Data to Text for <give_opinion>: Age of Wonders II: The Wizard's Throne is an all around poor example of a turn-based strategy RPG game.
+
+
+Data: give_opinion = yes | name = Age of Empires II: The Age of Kings | esrb = T (for Teen) | rating = good | has_multiplayer = yes
+
+Data to Text for <give_opinion>: I have fun playing Age of Empires II: The Age of Kings. I like that it has a multiplayer and, since it's only rated T (for Teen), I'm able to play it with friends and younger siblings.
+
+
+Data: give_opinion = yes | name = BioShock | esrb = M (for Mature) | rating = good | available_on_steam = yes
+
+Data to Text for <give_opinion>: BioShock is a solid M rated game available on both Steam and Linux.
+
+
+Data: give_opinion = yes | name = Call of Duty: Advanced Warfare | developer = Sledgehammer Games | rating = average | has_multiplayer = yes
+
+Data to Text for <give_opinion>: Call of Duty: Advanced Warfare is pretty average in my view. I think that Sledgehammer Games is a talented developer, but adding multiplayer to the game just diluted their focus and made playing it just a so-so experience.
+
+
+Data: give_opinion = yes | name = Commandos: Behind Enemy Lines | developer = Pyro Studios | rating = good | player_perspective = bird view
+
+Data to Text for <give_opinion>: I think that games with a bird view perspective can be pretty fun if executed well, and fortunately, Pyro Studios is a competent developer. That's why I enjoyed playing Commandos: Behind Enemy Lines.
+
+
+Data: give_opinion = yes | name = Far Cry 3 | rating = good | platforms = PlayStation
+
+Data to Text for <give_opinion>: I enjoyed playing Far Cry 3, like I do pretty much all PlayStation games.
+
+
+Data: give_opinion = yes | name = Madden NFL 15 | rating = average | has_multiplayer = yes
+
+Data to Text for <give_opinion>: Madden NFL 15 is average I guess. At first I didn't like it at all, but the multiplayer made it somewhat worthwhile.
+
+
+Data: give_opinion = yes | name = Super Mario World | esrb = E (for Everyone) | rating = excellent | has_multiplayer = yes
+
+Data to Text for <give_opinion>: Super Mario World is my current favorite game. I love multiplayer games that are rated E (for Everyone), so this is really my cup of tea!

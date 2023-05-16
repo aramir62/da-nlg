@@ -1,0 +1,20 @@
+Here is a text: "Dirt: Showdown 2012 E 10+ (for Everyone 10 and Older) driving/racing, sport PlayStation, Xbox, PC not Steam not Linux not Mac". Here is a rewrite of the text, which is an inform dialogue act: "Dirt: Showdown from 2012 is a sport racing game for the PlayStation, Xbox, PC rated E 10+ (for Everyone 10 and Older). It's not available on Steam, Linux, or Mac."
+
+Here is a text: "The Vanishing of Ethan Carter 2014 The Astronauts average adventure, indie first person not multiplayer". Here is a rewrite of the text, which is an inform dialogue act: "The Vanishing of Ethan Carter is an average indie adventure game from 2014. Its single-player campaign, developed by the Astronauts, is presented entirely in first person."
+
+Here is a text: "Metroid Prime Pinball Fuse Games E (for Everyone) average pinball, puzzle Nintendo". Here is a rewrite of the text, which is an inform dialogue act: "Metroid Prime Pinball by Fuse Games is an E (for Everyone) pinball-puzzle game. It runs on Nintendo, and it has average ratings."
+
+Here is a text: "Age of Empires II: The Age of Kings Ensemble Studios T (for Teen) good real-time strategy bird view". Here is a rewrite of the text, which is an inform dialogue act: "Age of Empires II: The Age of Kings is a good real-time strategy game that has a bird view. Ensemble Studios developed it, and it is rated T (for Teen)."
+
+Here is a text: "Alan Wake's American Nightmare 2012 action-adventure, shooter third person Xbox, PC Steam". Here is a rewrite of the text, which is an inform dialogue act: "Alan Wake's American Nightmare is a 2012 action-adventure game developed for the Xbox and PC. The third person shooter is currently available on Steam."
+
+Here is a text: "Football Manager 2015 simulation, sport, strategy multiplayer". Here is a rewrite of the text, which is an inform dialogue act: "Football Manager 2015 is sport simulation game as well as a strategy game, and it does have multiplayer."
+
+Here is a text: "Hellblade: Senua's Sacrifice excellent adventure, hack-and-slash, indie third person PlayStation, Xbox, PC Steam". Here is a rewrite of the text, which is an inform dialogue act: "One of my favorite indie, hack-and-slash adventures with a third person perspective is Hellblade: Senua's Sacrifice. It is an excellent game. You can get it on PlayStation, Xbox, or PC, and is available on Steam."
+
+Here is a text: "Little Big Adventure 1994 action-adventure third person". Here is a rewrite of the text, which is an inform dialogue act: "Little Big Adventure is an action-adventure game that is in the third person. The game came out in 1994."
+
+Here is a text: "Need for Speed: Shift 2009 Slightly Mad Studios average driving/racing, simulation first person, third person". Here is a rewrite of the text, which is an inform dialogue act: "The 2009 game, Need for Speed: Shift, is a rather average game for a racing simulator. It allows you to drive with a first or third person perspective, according to your preference. It's a game by Slightly Mad Studios."
+
+Here is a text: "StarCraft good real-time strategy bird view". Here is a rewrite of the text, which is an inform dialogue act: "StarCraft is a good real-time strategy played with a bird view.".
+

@@ -1,0 +1,51 @@
+description of <request_attribute>: A question about a preference in a certain gaming aspect/attribute from data.No extra information should be added in Data to Text for <request_attribute>:
+
+
+Data: request_attribute = yes | player_perspective = 
+
+Data to Text for <request_attribute>: Which perspective is the one that you prefer the most?
+
+
+Data: request_attribute = yes | has_mac_release = 
+
+Data to Text for <request_attribute>: Do you play your games on Mac?
+
+
+Data: request_attribute = yes | developer = 
+
+Data to Text for <request_attribute>: Who is your favorite game developer?
+
+
+Data: request_attribute = yes | genres = 
+
+Data to Text for <request_attribute>: What are the genres of your favorite video games?
+
+
+Data: request_attribute = yes | has_linux_release = 
+
+Data to Text for <request_attribute>: Do you ever play games on a Linux system?
+
+
+Data: request_attribute = yes | has_multiplayer = 
+
+Data to Text for <request_attribute>: Do you prefer to game with others, I mean, multiplayer?
+
+
+Data: request_attribute = yes | release_year = 
+
+Data to Text for <request_attribute>: Which year would you say was the most memorable, as far as video games are concerned?
+
+
+Data: request_attribute = yes | player_perspective = 
+
+Data to Text for <request_attribute>: Would you say there is a player perspective in games that you in general like the most?
+
+
+Data: request_attribute = yes | platforms = 
+
+Data to Text for <request_attribute>: What gaming platform do you generally choose?
+
+
+Data: request_attribute = yes | esrb = 
+
+Data to Text for <request_attribute>: Is there a particular ESRB content rating a game must have for you to even consider it?

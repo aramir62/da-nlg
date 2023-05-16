@@ -1,0 +1,9 @@
+Here is a text: "Driver average driving/racing, simulation not multiplayer". Rewrite it to be a verify attribute  dialogue act: "I recall you mentioned that Driver was just an average game. Does this sentiment hold for all driving/racing simulations which are single-player?"
+
+Here is a text: "Crysis M (for Mature) good Xbox". Rewrite it to be a verify attribute  dialogue act: "I remember you said you enjoyed Crysis. Are you a fan of Xbox games rated M (for Mature)?"
+
+Here is a text: "Euro Truck Simulator SCS Software poor driving/racing, simulation". Rewrite it to be a verify attribute  dialogue act: "I know you didn't like Euro Truck Simulator. Do you also dislike other SCS Software driving games?"
+
+Here is a text: "Assassin's Creed II Ubisoft Montreal good PlayStation". Rewrite it to be a verify attribute  dialogue act: "Since you enjoyed playing Assassin's Creed II, are you into other PlayStation games by Ubisoft Montreal?"
+
+Here is a text: "Uncharted 4: A Thief's End excellent multiplayer". Rewrite it to be a verify attribute  dialogue act: "Is playing multiplayer games something you're always up to, or was Uncharted 4: A Thief's End an unusually good one?"

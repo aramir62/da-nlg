@@ -1,0 +1,20 @@
+Here is a text: "Layers of Fear adventure, indie, point-and-click first person". Here is a rewrite of the text, which is a confirm dialogue act: "Are you referring to Layers of Fear, the first person indie point-and-click adventure game?"
+
+Here is a text: "Horizon: Zero Dawn action-adventure, role-playing, shooter". Here is a rewrite of the text, which is a confirm dialogue act: "By Horizon: Zero Dawn, do you mean the action-adventure shooter with role-playing elements?"
+
+Here is a text: "Hellblade: Senua's Sacrifice PC Steam". Here is a rewrite of the text, which is a confirm dialogue act: "Are you talking about Hellblade: Senua's Sacrifice which is available on Steam for the PC?"
+
+Here is a text: "Ancient Cities Uncasual Games simulation, strategy". Here is a rewrite of the text, which is a confirm dialogue act: "Ancient Cities, the strategy sim developed by Uncasual Games?"
+
+Here is a text: "Battlefield V multiplayer". Here is a rewrite of the text, which is a confirm dialogue act: "Are you referring to the Battlefield V that has a multiplayer option?"
+
+Here is a text: "BioShock M (for Mature) PC". Here is a rewrite of the text, which is a confirm dialogue act: "You mean the PC game BioShock, which is rated M (for Mature)?"
+
+Here is a text: "Diablo II PC". Here is a rewrite of the text, which is a confirm dialogue act: "You mentioned Diablo II, by that are you referring to the PC game?"
+
+Here is a text: "FIFA 12 EA Canada simulation, sport". Here is a rewrite of the text, which is a confirm dialogue act: "Oh! So you're referring to the FIFA 12 sports simulation game from EA Canada?"
+
+Here is a text: "Grand Theft Auto V third person". Here is a rewrite of the text, which is a confirm dialogue act: "Do you mean the Grand Theft Auto V that has got a third person perspective?"
+
+Here is a text: "Mafia 2002 Illusion Softworks". Here is a rewrite of the text, which is a confirm dialogue act: "Are you talking about Illusion Softworks' Mafia from 2002?".
+

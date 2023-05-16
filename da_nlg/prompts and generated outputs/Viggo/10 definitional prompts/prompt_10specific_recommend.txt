@@ -1,0 +1,51 @@
+description of <recommend>: A question asking if your friend is familiar with a video game you would recommend.In the response, bring up the given video game (in a recommending way) because it has certain attributes that were discussed earlier inthe conversation.Make sure you ask about the game, not the attributes.No extra information should be added in Data to Text for <recommend>:
+
+
+Data: recommend = yes | name = Sid Meier's Civilization V | available_on_steam = yes
+
+Data to Text for <recommend>: I know you got some Steam credits for your birthday. Have you tried Sid Meier's Civilization V yet?
+
+
+Data: recommend = yes | name = Resident Evil 4 | release_year = 2005 | player_perspective = third person
+
+Data to Text for <recommend>: A good third person game I played from back in 2005 was Resident Evil 4. Have you ever played it before?
+
+
+Data: recommend = yes | name = The Wolf Among Us | has_multiplayer = no | platforms = PC
+
+Data to Text for <recommend>: One of my favorite single-player PC games is The Wolf Among Us, do you know about it?
+
+
+Data: recommend = yes | name = Metroid Prime Pinball | developer = Fuse Games
+
+Data to Text for <recommend>: Since you're into games developed by Fuse Games, I wonder if you've tried Metroid Prime Pinball yet.
+
+
+Data: recommend = yes | name = NBA 2K16 | developer = Visual Concepts
+
+Data to Text for <recommend>: Ever tried NBA 2K16 developed by Visual Concepts?
+
+
+Data: recommend = yes | name = Need for Speed: Most Wanted | genres = driving/racing | player_perspective = first person
+
+Data to Text for <recommend>: I was playing Need for Speed: Most Wanted last night, you heard of it? It's a first person driving game.
+
+
+Data: recommend = yes | name = Never Alone | player_perspective = side view
+
+Data to Text for <recommend>: While we're on the subject of games played from a side view perspective, have you ever heard of Never Alone?
+
+
+Data: recommend = yes | name = The Witcher 3: Wild Hunt | genres = action-adventure, role-playing | player_perspective = third person
+
+Data to Text for <recommend>: Since you like action-adventure games from a third person perspective with role-playing elements, you should try this game I like, The Witcher 3: Wild Hunt?
+
+
+Data: recommend = yes | name = Uncharted 4: A Thief's End | developer = Naughty Dog | platforms = PlayStation
+
+Data to Text for <recommend>: Have you heard of Uncharted 4: A Thief's End? It's this PlayStation game from Naughty Dog.
+
+
+Data: recommend = yes | name = Worms: Reloaded | has_linux_release = yes | has_mac_release = yes
+
+Data to Text for <recommend>: If you're looking for a game with both a Mac release and a Linux release, Worms: Reloaded is one. Have you heard of it before?

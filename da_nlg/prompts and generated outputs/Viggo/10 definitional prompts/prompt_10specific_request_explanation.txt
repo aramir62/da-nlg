@@ -1,0 +1,51 @@
+description of <request_explanation>: A question about why your friend likes or dislikes a certain type ofgames. In the response, ask your friend for an explanation why he or she has the given sentiment about a certain type of games. Assume your friend has indicated his or her sentiment about the kind of games earlier in the conversation. The sentiment expressed in your response will thus be determined by the given value of the Liking attribute, not your own opinion.The response should consist of a single open-ended question about the type of games determined by the remaining given attributes.The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking,e.g., excellent ~ love, average ~ decent/mediocre, or poor ~ boringNo extra information should be added in Data to Text for <request_explanation>:
+
+
+Data: request_explanation = yes | release_year = 2005 | rating = excellent
+
+Data to Text for <request_explanation>: So what is it about the games that were released in 2005 that you find so excellent?
+
+
+Data: request_explanation = yes | developer = MicroProse | rating = good | player_perspective = bird view
+
+Data to Text for <request_explanation>: What is it about the bird view perspective games made by MicroProse that makes you enjoy them?
+
+
+Data: request_explanation = yes | developer = Capcom Production Studio 4 | rating = excellent | platforms = Xbox
+
+Data to Text for <request_explanation>: What do you find so amazing about Capcom Production Studio 4's Xbox games?
+
+
+Data: request_explanation = yes | developer = Blizzard North | rating = good | genres = hack-and-slash, role-playing
+
+Data to Text for <request_explanation>: I'm wondering, what is it about the hack-and-slash RPGs that Blizzard North makes that makes you enjoy them?
+
+
+Data: request_explanation = yes | developer = Evolution Studios | rating = poor | has_multiplayer = yes
+
+Data to Text for <request_explanation>: Why do you dislike Evolution Studios' multiplayer games?
+
+
+Data: request_explanation = yes | developer = Illusion Softworks | rating = excellent | genres = driving/racing, fighting, shooter
+
+Data to Text for <request_explanation>: What makes you love Illusion Softworks' shooter games with driving and fighting elements?
+
+
+Data: request_explanation = yes | developer = Ninja Theory | rating = excellent | player_perspective = third person
+
+Data to Text for <request_explanation>: Why are the third person games made by Ninja Theory some of your favorite games ever?
+
+
+Data: request_explanation = yes | developer = Tarsier Studios | rating = good
+
+Data to Text for <request_explanation>: I'm wondering, why do you enjoy the games made by Tarsier Studios?
+
+
+Data: request_explanation = yes | developer = Ubisoft Montreal | rating = good
+
+Data to Text for <request_explanation>: You've mentioned games by Ubisoft Montreal to be pretty good. Why do you think that is?
+
+
+Data: request_explanation = yes | developer = Valve Corporation | rating = excellent | platforms = PC
+
+Data to Text for <request_explanation>: Why do you find Valve Corporation's PC games to be top tier?

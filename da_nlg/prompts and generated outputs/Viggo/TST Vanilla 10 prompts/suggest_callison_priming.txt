@@ -1,0 +1,20 @@
+Here is a text: "Worms: Reloaded Steam". Here is a rewrite of the text, which is a suggest dialogue act: "I bet you like it when you can play games on Steam, like Worms: Reloaded, right?"
+
+Here is a text: "Super Bomberman 1993 E (for Everyone)". Here is a rewrite of the text, which is a suggest dialogue act: "Did you find any games rated E (for Everyone) fun that came out in 1993, such as Super Bomberman?"
+
+Here is a text: "BioShock action-adventure, role-playing, shooter". Here is a rewrite of the text, which is a suggest dialogue act: "I'm curious, have you ever played an action-adventure shooter with role-playing elements, like for example BioShock?"
+
+Here is a text: "Bus Driver SCS Software Steam". Here is a rewrite of the text, which is a suggest dialogue act: "You ever played one of SCS Software's games on Steam, like for example Bus Driver?"
+
+Here is a text: "Dirt: Showdown 2012 Codemasters Southam". Here is a rewrite of the text, which is a suggest dialogue act: "I'm curious now, did you ever play any of the 2012 games created by Codemasters Southam, such as Dirt: Showdown?"
+
+Here is a text: "Guitar Hero: Smash Hits music". Here is a rewrite of the text, which is a suggest dialogue act: "I'm curious, do you have any experience playing any games in the music genre, games like Guitar Hero: Smash Hits?"
+
+Here is a text: "Max Payne Remedy Entertainment Xbox". Here is a rewrite of the text, which is a suggest dialogue act: "I was curious, have you ever played Xbox games developed by Remedy Entertainment, like for example Max Payne?"
+
+Here is a text: "NBA 2K16 2015 Visual Concepts". Here is a rewrite of the text, which is a suggest dialogue act: "Do you have any experience with one of the games released by Visual Concepts in 2015, such as NBA 2K16?"
+
+Here is a text: "The Sims 2000 Maxis". Here is a rewrite of the text, which is a suggest dialogue act: "Do you like Maxis' games from 2000 like The Sims?"
+
+Here is a text: "Undertale tobyfox not multiplayer". Here is a rewrite of the text, which is a suggest dialogue act: "Do you play any single-player games, like tobyfox's Undertale?".
+

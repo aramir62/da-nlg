@@ -1,0 +1,20 @@
+Here is a text: "2005 excellent". Here is a rewrite of the text, which is a request explanation dialogue act: "So what is it about the games that were released in 2005 that you find so excellent?"
+
+Here is a text: "MicroProse good bird view". Here is a rewrite of the text, which is a request explanation dialogue act: "What is it about the bird view perspective games made by MicroProse that makes you enjoy them?"
+
+Here is a text: "Capcom Production Studio 4 excellent Xbox". Here is a rewrite of the text, which is a request explanation dialogue act: "What do you find so amazing about Capcom Production Studio 4's Xbox games?"
+
+Here is a text: "Blizzard North good hack-and-slash, role-playing". Here is a rewrite of the text, which is a request explanation dialogue act: "I'm wondering, what is it about the hack-and-slash RPGs that Blizzard North makes that makes you enjoy them?"
+
+Here is a text: "Evolution Studios poor multiplayer". Here is a rewrite of the text, which is a request explanation dialogue act: "Why do you dislike Evolution Studios' multiplayer games?"
+
+Here is a text: "Illusion Softworks excellent driving/racing, fighting, shooter". Here is a rewrite of the text, which is a request explanation dialogue act: "What makes you love Illusion Softworks' shooter games with driving and fighting elements?"
+
+Here is a text: "Ninja Theory excellent third person". Here is a rewrite of the text, which is a request explanation dialogue act: "Why are the third person games made by Ninja Theory some of your favorite games ever?"
+
+Here is a text: "Tarsier Studios good". Here is a rewrite of the text, which is a request explanation dialogue act: "I'm wondering, why do you enjoy the games made by Tarsier Studios?"
+
+Here is a text: "Ubisoft Montreal good". Here is a rewrite of the text, which is a request explanation dialogue act: "You've mentioned games by Ubisoft Montreal to be pretty good. Why do you think that is?"
+
+Here is a text: "Valve Corporation excellent PC". Here is a rewrite of the text, which is a request explanation dialogue act: "Why do you find Valve Corporation's PC games to be top tier?".
+

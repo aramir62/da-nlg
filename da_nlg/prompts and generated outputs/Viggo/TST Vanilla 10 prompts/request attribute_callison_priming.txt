@@ -1,0 +1,20 @@
+Here is a text: "perspective". Here is a rewrite of the text, which is a request attribute dialogue act: "Which perspective is the one that you prefer the most?"
+
+Here is a text: "Mac". Here is a rewrite of the text, which is a request attribute dialogue act: "Do you play your games on Mac?"
+
+Here is a text: "developer". Here is a rewrite of the text, which is a request attribute dialogue act: "Who is your favorite game developer?"
+
+Here is a text: "genres". Here is a rewrite of the text, which is a request attribute dialogue act: "What are the genres of your favorite video games?"
+
+Here is a text: "Linux". Here is a rewrite of the text, which is a request attribute dialogue act: "Do you ever play games on a Linux system?"
+
+Here is a text: "multiplayer". Here is a rewrite of the text, which is a request attribute dialogue act: "Do you prefer to game with others, I mean, multiplayer?"
+
+Here is a text: "year". Here is a rewrite of the text, which is a request attribute dialogue act: "Which year would you say was the most memorable, as far as video games are concerned?"
+
+Here is a text: "perspective". Here is a rewrite of the text, which is a request attribute dialogue act: "Would you say there is a player perspective in games that you in general like the most?"
+
+Here is a text: "platforms". Here is a rewrite of the text, which is a request attribute dialogue act: "What gaming platform do you generally choose?"
+
+Here is a text: "ESRB". Here is a rewrite of the text, which is a request attribute dialogue act: "Is there a particular ESRB content rating a game must have for you to even consider it?".
+

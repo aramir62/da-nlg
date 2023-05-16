@@ -1,0 +1,51 @@
+description of <request>: Ask a question to start talking about the game. The question must be formulated in such a way that the expected answer would be the name of a single game, or a yes/no answer. The specifier used in the question serves to narrow down your friend's options (e.g., favorite, most boring, recent, future, etc.). Don't repeat yourself.No extra information should be added in Data to Text for <request>:
+
+
+Data: request = yes | release_year = 2014 | specifier = terrible
+
+Data to Text for <request>: Were there even any terrible games in 2014?
+
+
+Data: request = yes | developer = Firefly Studios | specifier = upcoming
+
+Data to Text for <request>: Are there any upcoming games from Firefly Studios you're looking forward to?
+
+
+Data: request = yes | specifier = mindless
+
+Data to Text for <request>: What's a nice mindless game you can think of that I could play to just unwind?
+
+
+Data: request = yes | available_on_steam = yes | specifier = ugliest
+
+Data to Text for <request>: What's the ugliest game you've found on Steam so far?
+
+
+Data: request = yes | developer = Overkill Software | specifier = empowering
+
+Data to Text for <request>: Ever played a game from Overkill Software you felt was empowering?
+
+
+Data: request = yes | genres = action-adventure | specifier = easy
+
+Data to Text for <request>: Do you know of any action-adventure games that are nice and easy?
+
+
+Data: request = yes | has_linux_release = yes | specifier = frightening
+
+Data to Text for <request>: Do you know of any frightening games that are available on Linux?
+
+
+Data: request = yes | platforms = PlayStation | specifier = weirdest
+
+Data to Text for <request>: What's the weirdest game you've ever played on PlayStation.
+
+
+Data: request = yes | specifier = boring
+
+Data to Text for <request>: Did you find any releases this year to be overly boring?
+
+
+Data: request = yes | specifier = unfair
+
+Data to Text for <request>: What's the first game that comes to your mind about which you felt it was just unfair?

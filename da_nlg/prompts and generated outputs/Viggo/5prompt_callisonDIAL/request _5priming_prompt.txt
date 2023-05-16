@@ -1,0 +1,9 @@
+Here is a text: "mindless". Rewrite it to be a request  dialogue act: "What's a nice mindless game you can think of that I could play to just unwind?"
+
+Here is a text: "Overkill Software empowering". Rewrite it to be a request  dialogue act: "Ever played a game from Overkill Software you felt was empowering?"
+
+Here is a text: "2014 terrible". Rewrite it to be a request  dialogue act: "Were there even any terrible games in 2014?"
+
+Here is a text: "Steam ugliest". Rewrite it to be a request  dialogue act: "What's the ugliest game you've found on Steam so far?"
+
+Here is a text: "Firefly Studios upcoming". Rewrite it to be a request  dialogue act: "Are there any upcoming games from Firefly Studios you're looking forward to?"
