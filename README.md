@@ -6,7 +6,8 @@ This code base is associated to Controllable Generation of Dialogue Acts for Dia
 We present this repository which contains the following: 
  1. All 8 prompts used for the different domains
  2. 2 dialogue act classifiers, 1 for the dialogue acts corresponding to ViGGO and the other is for the 13 dialogue acts corresponding to RNNLG (trained on all domains even though it was used for only TV and Laptop)
- 3. Data produced from LLM for the different prompts, # of examples, and different parameters set
+ 3. Ranking code
+ 4. Data produced from LLM for the different prompts, # of examples, and different parameters set
 
 Any use of the methodology, prompts, classifiers, or the data please cite the following below: 
 
